@@ -1,0 +1,11 @@
+.container {
+  max-width: 540px !important;
+}
+
+.error-msg-first-name,
+.error-msg-last-name,
+.error-msg-email {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}
